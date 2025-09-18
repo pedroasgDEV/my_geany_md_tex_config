@@ -1,0 +1,1 @@
+# my_geany_md_config

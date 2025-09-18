@@ -1,1 +1,1 @@
-# my_geany_md_config
+# my_geany_md_tex_config

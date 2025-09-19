@@ -1,4 +1,0 @@
-[build-menu]
-FT_01_LB=PDF
-FT_01_CM=latexmk -pdf -pvc "%f"
-FT_01_WD=
